@@ -1,0 +1,17 @@
+# 2026/02/20 07:42:53.711736 [TestProperty_TODOParseFormatRoundTrip] [rapid] draw num_tasks: 1
+# 2026/02/20 07:42:53.711742 [TestProperty_TODOParseFormatRoundTrip] [rapid] draw description: " "
+# 2026/02/20 07:42:53.711745 [TestProperty_TODOParseFormatRoundTrip] [rapid] draw completed: false
+# 2026/02/20 07:42:53.711748 [TestProperty_TODOParseFormatRoundTrip] length mismatch: got 0, want 1
+# 
+v0.4.8#3890700447348579056
+0x0
+0x0
+0x1
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0

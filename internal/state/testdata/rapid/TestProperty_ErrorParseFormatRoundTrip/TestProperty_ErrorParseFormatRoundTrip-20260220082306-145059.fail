@@ -1,0 +1,27 @@
+# 2026/02/20 08:23:06.366104 [TestProperty_ErrorParseFormatRoundTrip] [rapid] draw iteration: 1
+# 2026/02/20 08:23:06.366108 [TestProperty_ErrorParseFormatRoundTrip] [rapid] draw task: " "
+# 2026/02/20 08:23:06.366110 [TestProperty_ErrorParseFormatRoundTrip] [rapid] draw error: " "
+# 2026/02/20 08:23:06.366113 [TestProperty_ErrorParseFormatRoundTrip] [rapid] draw attempt: 1
+# 2026/02/20 08:23:06.366148 [TestProperty_ErrorParseFormatRoundTrip] error mismatch: got "", want " "
+# 
+v0.4.8#6165512278762549005
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0
+0x0

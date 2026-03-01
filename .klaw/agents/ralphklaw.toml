@@ -1,0 +1,7 @@
+name = "ralphklaw"
+model = "claude-sonnet-4-6-20260217"
+task = "Execute Ralph Loop: process TODO.md tasks with Go validation"
+tools = []
+workdir = "."
+runtime = "process"
+created_at = 2026-02-19T00:00:00Z
