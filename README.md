@@ -1,6 +1,14 @@
 # ralphKlaw
 
-ralphKlaw is an autonomous coding agent for Go projects. It reads tasks from a `TODO.md` file, implements them using an inner agentic loop powered by Claude, validates the result, and commits the changes — iterating until all tasks are done.
+ralphKlaw is an autonomous coding agent for Go projects, built for the [klaw.sh](https://klaw.sh) agent orchestration platform. It reads tasks from a `TODO.md` file, implements them using an inner agentic loop powered by Claude, validates the result, and commits the changes — iterating until all tasks are done.
+
+Deploy and manage ralphKlaw alongside your other agents using `klaw`:
+
+```bash
+curl -fsSL https://klaw.sh/install.sh | sh
+klaw apply -f .klaw/agents/ralphklaw.toml
+klaw logs ralphklaw
+```
 
 ## How it works
 
